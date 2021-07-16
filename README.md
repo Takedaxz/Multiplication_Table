@@ -1,2 +1,3 @@
 # Multiplication_Table
-<h1>Multiplication Table</h1>
+<p>Make you more comfortable ><</p>
+<br>Make with HTML and Javascript
