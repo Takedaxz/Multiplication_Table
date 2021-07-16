@@ -1,3 +1,3 @@
 # Multiplication_Table
-<p>Make you more comfortable ><</p>
-<br>Make with HTML and Javascript
+<h2>Make you more comfortable ><</h2>
+<br>Make by HTML and Javascript
